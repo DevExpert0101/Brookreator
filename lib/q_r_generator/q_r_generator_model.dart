@@ -1,8 +1,8 @@
 import '/flutter_flow/flutter_flow_util.dart';
-import 'home_page_widget.dart' show HomePageWidget;
+import 'q_r_generator_widget.dart' show QRGeneratorWidget;
 import 'package:flutter/material.dart';
 
-class HomePageModel extends FlutterFlowModel<HomePageWidget> {
+class QRGeneratorModel extends FlutterFlowModel<QRGeneratorWidget> {
   ///  State fields for stateful widgets in this page.
 
   final unfocusNode = FocusNode();

@@ -55,6 +55,11 @@ GoRouter createRouter(AppStateNotifier appStateNotifier) => GoRouter(
           name: 'aivideo',
           path: '/aivideo',
           builder: (context, params) => const AivideoWidget(),
+        ),
+        FFRoute(
+          name: 'QRGenerator',
+          path: '/qRGenerator',
+          builder: (context, params) => const QRGeneratorWidget(),
         )
       ].map((r) => r.toRoute(appStateNotifier)).toList(),
     );

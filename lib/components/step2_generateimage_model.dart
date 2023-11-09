@@ -1,14 +1,11 @@
-import '/components/topbar_widget.dart';
 import '/flutter_flow/flutter_flow_util.dart';
-import 'portait_widget.dart' show PortaitWidget;
+import 'step2_generateimage_widget.dart' show Step2GenerateimageWidget;
 import 'package:flutter/material.dart';
 
-class PortaitModel extends FlutterFlowModel<PortaitWidget> {
-  ///  State fields for stateful widgets in this page.
+class Step2GenerateimageModel
+    extends FlutterFlowModel<Step2GenerateimageWidget> {
+  ///  State fields for stateful widgets in this component.
 
-  final unfocusNode = FocusNode();
-  // Model for Topbar component.
-  late TopbarModel topbarModel;
   // State field(s) for TextField widget.
   FocusNode? textFieldFocusNode;
   TextEditingController? textController;
@@ -17,14 +14,10 @@ class PortaitModel extends FlutterFlowModel<PortaitWidget> {
   /// Initialization and disposal methods.
 
   @override
-  void initState(BuildContext context) {
-    topbarModel = createModel(context, () => TopbarModel());
-  }
+  void initState(BuildContext context) {}
 
   @override
   void dispose() {
-    unfocusNode.dispose();
-    topbarModel.dispose();
     textFieldFocusNode?.dispose();
     textController?.dispose();
   }
