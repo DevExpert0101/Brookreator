@@ -50,6 +50,11 @@ GoRouter createRouter(AppStateNotifier appStateNotifier) => GoRouter(
           name: 'uploadingguide',
           path: '/uploadingguide',
           builder: (context, params) => const UploadingguideWidget(),
+        ),
+        FFRoute(
+          name: 'aivideo',
+          path: '/aivideo',
+          builder: (context, params) => const AivideoWidget(),
         )
       ].map((r) => r.toRoute(appStateNotifier)).toList(),
     );
