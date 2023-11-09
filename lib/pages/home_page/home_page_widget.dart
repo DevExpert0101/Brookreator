@@ -688,20 +688,6 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                             fit: BoxFit.cover,
                                           ),
                                         ),
-                                        Padding(
-                                          padding:
-                                              const EdgeInsetsDirectional.fromSTEB(
-                                                  10.0, 113.0, 0.0, 0.0),
-                                          child: Text(
-                                            'Korean',
-                                            style: FlutterFlowTheme.of(context)
-                                                .titleSmall
-                                                .override(
-                                                  fontFamily: 'Inter',
-                                                  fontSize: 10.0,
-                                                ),
-                                          ),
-                                        ),
                                         Align(
                                           alignment:
                                               const AlignmentDirectional(-1.00, 0.00),
@@ -882,7 +868,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                               const EdgeInsetsDirectional.fromSTEB(
                                                   10.0, 113.0, 0.0, 0.0),
                                           child: Text(
-                                            'Korean',
+                                            'Anime',
                                             style: FlutterFlowTheme.of(context)
                                                 .titleSmall
                                                 .override(
@@ -912,6 +898,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                                         2.65, 1.0, 2.48, 0.0),
                                                 child: Text(
                                                   'AI Portrait',
+                                                  textAlign: TextAlign.center,
                                                   style: FlutterFlowTheme.of(
                                                           context)
                                                       .titleSmall
@@ -1045,7 +1032,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                                 const EdgeInsetsDirectional.fromSTEB(
                                                     10.0, 80.0, 0.0, 0.0),
                                             child: Text(
-                                              'Flower Field',
+                                              'Lunar Year',
                                               style:
                                                   FlutterFlowTheme.of(context)
                                                       .titleSmall
@@ -1075,7 +1062,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                               const EdgeInsetsDirectional.fromSTEB(
                                                   10.0, 113.0, 0.0, 0.0),
                                           child: Text(
-                                            'Korean',
+                                            'Homey Cafe​',
                                             style: FlutterFlowTheme.of(context)
                                                 .titleSmall
                                                 .override(
@@ -1092,7 +1079,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                                 const EdgeInsetsDirectional.fromSTEB(
                                                     9.0, 130.0, 0.0, 0.0),
                                             child: Container(
-                                              width: 38.0,
+                                              width: 46.0,
                                               height: 10.0,
                                               decoration: BoxDecoration(
                                                 color: const Color(0x94000000),
@@ -1104,7 +1091,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                                     .fromSTEB(
                                                         2.65, 1.0, 2.48, 0.0),
                                                 child: Text(
-                                                  'AI Portrait',
+                                                  'Text to Image',
                                                   style: FlutterFlowTheme.of(
                                                           context)
                                                       .titleSmall
@@ -1151,7 +1138,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                                     .fromSTEB(
                                                         3.0, 1.0, 3.0, 0.0),
                                                 child: Text(
-                                                  'Text to Image',
+                                                  'QR Generator',
                                                   style: FlutterFlowTheme.of(
                                                           context)
                                                       .titleSmall
@@ -1202,7 +1189,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                               const EdgeInsetsDirectional.fromSTEB(
                                                   10.0, 113.0, 0.0, 0.0),
                                           child: Text(
-                                            'Korean',
+                                            'Peach',
                                             style: FlutterFlowTheme.of(context)
                                                 .titleSmall
                                                 .override(
@@ -1263,7 +1250,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                               const EdgeInsetsDirectional.fromSTEB(
                                                   10.0, 113.0, 0.0, 0.0),
                                           child: Text(
-                                            'Korean',
+                                            'Aquatic Sci-Fi',
                                             style: FlutterFlowTheme.of(context)
                                                 .titleSmall
                                                 .override(
@@ -1280,7 +1267,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                                 const EdgeInsetsDirectional.fromSTEB(
                                                     9.0, 130.0, 0.0, 0.0),
                                             child: Container(
-                                              width: 38.0,
+                                              width: 46.0,
                                               height: 10.0,
                                               decoration: BoxDecoration(
                                                 color: const Color(0x94000000),
@@ -1292,7 +1279,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                                     .fromSTEB(
                                                         2.65, 1.0, 2.48, 0.0),
                                                 child: Text(
-                                                  'AI Portrait',
+                                                  'Text to Image',
                                                   style: FlutterFlowTheme.of(
                                                           context)
                                                       .titleSmall
@@ -1339,7 +1326,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                                     .fromSTEB(
                                                         3.0, 1.0, 3.0, 0.0),
                                                 child: Text(
-                                                  'Text to Image',
+                                                  'QR Generator',
                                                   style: FlutterFlowTheme.of(
                                                           context)
                                                       .titleSmall
@@ -1360,7 +1347,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                                 const EdgeInsetsDirectional.fromSTEB(
                                                     10.0, 80.0, 0.0, 0.0),
                                             child: Text(
-                                              'Flower Field',
+                                              'Neon Sci-fi Lady',
                                               style:
                                                   FlutterFlowTheme.of(context)
                                                       .titleSmall
