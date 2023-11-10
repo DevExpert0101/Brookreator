@@ -60,6 +60,41 @@ GoRouter createRouter(AppStateNotifier appStateNotifier) => GoRouter(
           name: 'QRGenerator',
           path: '/qRGenerator',
           builder: (context, params) => const QRGeneratorWidget(),
+        ),
+        FFRoute(
+          name: 'MyPictures',
+          path: '/myPictures',
+          builder: (context, params) => const MyPicturesWidget(),
+        ),
+        FFRoute(
+          name: 'MyPictures_Open',
+          path: '/myPicturesOpen',
+          builder: (context, params) => const MyPicturesOpenWidget(),
+        ),
+        FFRoute(
+          name: 'Language',
+          path: '/language',
+          builder: (context, params) => const LanguageWidget(),
+        ),
+        FFRoute(
+          name: 'BuyCredit',
+          path: '/buyCredit',
+          builder: (context, params) => const BuyCreditWidget(),
+        ),
+        FFRoute(
+          name: 'Account',
+          path: '/account',
+          builder: (context, params) => const AccountWidget(),
+        ),
+        FFRoute(
+          name: 'About_US',
+          path: '/aboutUS',
+          builder: (context, params) => const AboutUSWidget(),
+        ),
+        FFRoute(
+          name: 'Privacy_Policy',
+          path: '/privacyPolicy',
+          builder: (context, params) => const PrivacyPolicyWidget(),
         )
       ].map((r) => r.toRoute(appStateNotifier)).toList(),
     );

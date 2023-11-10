@@ -481,7 +481,6 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                       fontFamily: 'Inter',
                                       fontSize: 12.0,
                                     ),
-                                elevation: 3.0,
                                 borderSide: const BorderSide(
                                   color: Colors.transparent,
                                   width: 1.0,
@@ -514,7 +513,6 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                             .primaryText,
                                         fontSize: 12.0,
                                       ),
-                                  elevation: 3.0,
                                   borderSide: const BorderSide(
                                     color: Color(0xFFD9D9D9),
                                     width: 1.0,
@@ -548,7 +546,6 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                             .primaryText,
                                         fontSize: 12.0,
                                       ),
-                                  elevation: 3.0,
                                   borderSide: const BorderSide(
                                     color: Color(0xFFD9D9D9),
                                     width: 1.0,
@@ -582,7 +579,6 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                             .primaryText,
                                         fontSize: 12.0,
                                       ),
-                                  elevation: 3.0,
                                   borderSide: const BorderSide(
                                     color: Color(0xFFD9D9D9),
                                     width: 1.0,
