@@ -89,7 +89,7 @@ class _LanguageWidgetState extends State<LanguageWidget> {
                               style: FlutterFlowTheme.of(context)
                                   .bodyLarge
                                   .override(
-                                    fontFamily: 'Inter',
+                                    fontFamily: 'Plus Jakarta Sans',
                                     fontSize: 22.0,
                                     fontWeight: FontWeight.bold,
                                   ),
@@ -122,7 +122,7 @@ class _LanguageWidgetState extends State<LanguageWidget> {
                         const EdgeInsetsDirectional.fromSTEB(0.0, 0.0, 0.0, 0.0),
                     color: const Color(0xFFDEDEDE),
                     textStyle: FlutterFlowTheme.of(context).titleSmall.override(
-                          fontFamily: 'Inter',
+                          fontFamily: 'Plus Jakarta Sans',
                           color: Colors.black,
                         ),
                     borderSide: const BorderSide(
@@ -154,7 +154,7 @@ class _LanguageWidgetState extends State<LanguageWidget> {
                         const EdgeInsetsDirectional.fromSTEB(0.0, 0.0, 0.0, 0.0),
                     color: const Color(0xFFDEDEDE),
                     textStyle: FlutterFlowTheme.of(context).titleSmall.override(
-                          fontFamily: 'Inter',
+                          fontFamily: 'Plus Jakarta Sans',
                           color: Colors.black,
                         ),
                     borderSide: const BorderSide(

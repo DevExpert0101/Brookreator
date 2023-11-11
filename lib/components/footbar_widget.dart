@@ -70,7 +70,7 @@ class _FootbarWidgetState extends State<FootbarWidget> {
                   child: Text(
                     'Text to Image',
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                          fontFamily: 'Inter',
+                          fontFamily: 'Plus Jakarta Sans',
                           fontSize: 10.0,
                         ),
                   ),
@@ -104,7 +104,7 @@ class _FootbarWidgetState extends State<FootbarWidget> {
                   child: Text(
                     'AI Portrait',
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                          fontFamily: 'Inter',
+                          fontFamily: 'Plus Jakarta Sans',
                           fontSize: 10.0,
                         ),
                   ),
@@ -138,7 +138,7 @@ class _FootbarWidgetState extends State<FootbarWidget> {
                   child: Text(
                     'AI Video',
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                          fontFamily: 'Inter',
+                          fontFamily: 'Plus Jakarta Sans',
                           fontSize: 10.0,
                         ),
                   ),
@@ -172,7 +172,7 @@ class _FootbarWidgetState extends State<FootbarWidget> {
                   child: Text(
                     'QR Generator',
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                          fontFamily: 'Inter',
+                          fontFamily: 'Plus Jakarta Sans',
                           fontSize: 10.0,
                         ),
                   ),
@@ -206,7 +206,7 @@ class _FootbarWidgetState extends State<FootbarWidget> {
                   child: Text(
                     'My Pictures',
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                          fontFamily: 'Inter',
+                          fontFamily: 'Plus Jakarta Sans',
                           fontSize: 10.0,
                         ),
                   ),

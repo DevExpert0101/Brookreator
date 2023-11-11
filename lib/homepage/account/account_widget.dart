@@ -89,7 +89,7 @@ class _AccountWidgetState extends State<AccountWidget> {
                               style: FlutterFlowTheme.of(context)
                                   .bodyLarge
                                   .override(
-                                    fontFamily: 'Inter',
+                                    fontFamily: 'Plus Jakarta Sans',
                                     fontSize: 22.0,
                                     fontWeight: FontWeight.bold,
                                   ),
@@ -142,7 +142,7 @@ class _AccountWidgetState extends State<AccountWidget> {
                             style: FlutterFlowTheme.of(context)
                                 .bodyMedium
                                 .override(
-                                  fontFamily: 'Inter',
+                                  fontFamily: 'Plus Jakarta Sans',
                                   color: FlutterFlowTheme.of(context)
                                       .secondaryText,
                                   fontSize: 20.0,
@@ -157,7 +157,7 @@ class _AccountWidgetState extends State<AccountWidget> {
                       child: Text(
                         'Natheenont001',
                         style: FlutterFlowTheme.of(context).titleSmall.override(
-                              fontFamily: 'Inter',
+                              fontFamily: 'Plus Jakarta Sans',
                               fontSize: 18.0,
                               fontWeight: FontWeight.bold,
                             ),
@@ -169,7 +169,7 @@ class _AccountWidgetState extends State<AccountWidget> {
                       child: Text(
                         'Natheenont001@gmail.com',
                         style: FlutterFlowTheme.of(context).titleSmall.override(
-                              fontFamily: 'Inter',
+                              fontFamily: 'Plus Jakarta Sans',
                               color: const Color(0xCDFFFFFF),
                               fontSize: 14.0,
                               fontWeight: FontWeight.normal,
@@ -182,7 +182,7 @@ class _AccountWidgetState extends State<AccountWidget> {
                       child: Text(
                         '|',
                         style: FlutterFlowTheme.of(context).bodyMedium.override(
-                              fontFamily: 'Inter',
+                              fontFamily: 'Plus Jakarta Sans',
                               color: const Color(0x23E4E4E4),
                               fontSize: 40.0,
                               fontWeight: FontWeight.w200,
@@ -195,7 +195,7 @@ class _AccountWidgetState extends State<AccountWidget> {
                       child: Text(
                         '60',
                         style: FlutterFlowTheme.of(context).titleSmall.override(
-                              fontFamily: 'Inter',
+                              fontFamily: 'Plus Jakarta Sans',
                               fontSize: 25.0,
                               fontWeight: FontWeight.bold,
                             ),
@@ -219,7 +219,7 @@ class _AccountWidgetState extends State<AccountWidget> {
                           color: Colors.white,
                           textStyle:
                               FlutterFlowTheme.of(context).titleSmall.override(
-                                    fontFamily: 'Inter',
+                                    fontFamily: 'Plus Jakarta Sans',
                                     color: Colors.black,
                                     fontSize: 10.0,
                                     fontWeight: FontWeight.w600,
@@ -274,7 +274,7 @@ class _AccountWidgetState extends State<AccountWidget> {
                             textStyle: FlutterFlowTheme.of(context)
                                 .titleSmall
                                 .override(
-                                  fontFamily: 'Inter',
+                                  fontFamily: 'Plus Jakarta Sans',
                                   color: Colors.black,
                                   fontSize: 14.0,
                                   fontWeight: FontWeight.w600,
@@ -342,7 +342,7 @@ class _AccountWidgetState extends State<AccountWidget> {
                             textStyle: FlutterFlowTheme.of(context)
                                 .titleSmall
                                 .override(
-                                  fontFamily: 'Inter',
+                                  fontFamily: 'Plus Jakarta Sans',
                                   color: Colors.black,
                                   fontSize: 14.0,
                                   fontWeight: FontWeight.w600,
@@ -397,7 +397,7 @@ class _AccountWidgetState extends State<AccountWidget> {
                             textStyle: FlutterFlowTheme.of(context)
                                 .titleSmall
                                 .override(
-                                  fontFamily: 'Inter',
+                                  fontFamily: 'Plus Jakarta Sans',
                                   color: Colors.black,
                                   fontSize: 14.0,
                                   fontWeight: FontWeight.w600,
@@ -452,7 +452,7 @@ class _AccountWidgetState extends State<AccountWidget> {
                             textStyle: FlutterFlowTheme.of(context)
                                 .titleSmall
                                 .override(
-                                  fontFamily: 'Inter',
+                                  fontFamily: 'Plus Jakarta Sans',
                                   color: Colors.black,
                                   fontSize: 14.0,
                                   fontWeight: FontWeight.w600,

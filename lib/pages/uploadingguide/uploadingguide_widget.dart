@@ -112,7 +112,7 @@ class _UploadingguideWidgetState extends State<UploadingguideWidget> {
                               style: FlutterFlowTheme.of(context)
                                   .titleMedium
                                   .override(
-                                    fontFamily: 'Inter',
+                                    fontFamily: 'Plus Jakarta Sans',
                                     color: Colors.black,
                                   ),
                             ),
@@ -160,7 +160,7 @@ class _UploadingguideWidgetState extends State<UploadingguideWidget> {
                               style: FlutterFlowTheme.of(context)
                                   .bodyMedium
                                   .override(
-                                    fontFamily: 'Inter',
+                                    fontFamily: 'Plus Jakarta Sans',
                                     color: const Color(0xFF9D9D9D),
                                   ),
                             ),
@@ -181,7 +181,7 @@ class _UploadingguideWidgetState extends State<UploadingguideWidget> {
                                 style: FlutterFlowTheme.of(context)
                                     .bodyMedium
                                     .override(
-                                      fontFamily: 'Inter',
+                                      fontFamily: 'Plus Jakarta Sans',
                                       color: const Color(0xFF9D9D9D),
                                     ),
                               ),
@@ -355,7 +355,7 @@ class _UploadingguideWidgetState extends State<UploadingguideWidget> {
                                 style: FlutterFlowTheme.of(context)
                                     .bodyMedium
                                     .override(
-                                      fontFamily: 'Inter',
+                                      fontFamily: 'Plus Jakarta Sans',
                                       color: const Color(0xFF9D9D9D),
                                     ),
                               ),
@@ -529,7 +529,7 @@ class _UploadingguideWidgetState extends State<UploadingguideWidget> {
                                 style: FlutterFlowTheme.of(context)
                                     .bodyMedium
                                     .override(
-                                      fontFamily: 'Inter',
+                                      fontFamily: 'Plus Jakarta Sans',
                                       color: const Color(0xFF9D9D9D),
                                     ),
                               ),

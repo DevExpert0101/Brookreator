@@ -118,7 +118,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                           'NA',
                           style:
                               FlutterFlowTheme.of(context).bodyMedium.override(
-                                    fontFamily: 'Inter',
+                                    fontFamily: 'Plus Jakarta Sans',
                                     color: FlutterFlowTheme.of(context)
                                         .primaryBackground,
                                   ),
@@ -210,7 +210,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                       style: FlutterFlowTheme.of(context)
                                           .bodyMedium
                                           .override(
-                                            fontFamily: 'Inter',
+                                            fontFamily: 'Plus Jakarta Sans',
                                             color: FlutterFlowTheme.of(context)
                                                 .secondaryText,
                                             fontSize: 10.0,
@@ -228,7 +228,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                       style: FlutterFlowTheme.of(context)
                                           .titleLarge
                                           .override(
-                                            fontFamily: 'Inter',
+                                            fontFamily: 'Plus Jakarta Sans',
                                             fontSize: 18.0,
                                             fontWeight: FontWeight.w600,
                                           ),
@@ -245,7 +245,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                       style: FlutterFlowTheme.of(context)
                                           .bodyMedium
                                           .override(
-                                            fontFamily: 'Inter',
+                                            fontFamily: 'Plus Jakarta Sans',
                                             color: FlutterFlowTheme.of(context)
                                                 .secondaryText,
                                             fontSize: 12.0,
@@ -276,7 +276,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                         textStyle: FlutterFlowTheme.of(context)
                                             .titleSmall
                                             .override(
-                                              fontFamily: 'Inter',
+                                              fontFamily: 'Plus Jakarta Sans',
                                               color: Colors.black,
                                               fontSize: 10.0,
                                             ),
@@ -335,7 +335,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                     textStyle: FlutterFlowTheme.of(context)
                                         .titleSmall
                                         .override(
-                                          fontFamily: 'Inter',
+                                          fontFamily: 'Plus Jakarta Sans',
                                           color: Colors.white,
                                         ),
                                     borderSide: const BorderSide(
@@ -364,7 +364,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                     textStyle: FlutterFlowTheme.of(context)
                                         .titleSmall
                                         .override(
-                                          fontFamily: 'Inter',
+                                          fontFamily: 'Plus Jakarta Sans',
                                           color: Colors.white,
                                         ),
                                     borderSide: const BorderSide(
@@ -396,7 +396,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                 textStyle: FlutterFlowTheme.of(context)
                                     .titleSmall
                                     .override(
-                                      fontFamily: 'Inter',
+                                      fontFamily: 'Plus Jakarta Sans',
                                       color: Colors.white,
                                     ),
                                 elevation: 3.0,
@@ -427,7 +427,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                 textStyle: FlutterFlowTheme.of(context)
                                     .titleSmall
                                     .override(
-                                      fontFamily: 'Inter',
+                                      fontFamily: 'Plus Jakarta Sans',
                                       color: Colors.white,
                                     ),
                                 elevation: 3.0,
@@ -450,7 +450,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                             'Templates Generate',
                             style:
                                 FlutterFlowTheme.of(context).bodyLarge.override(
-                                      fontFamily: 'Inter',
+                                      fontFamily: 'Plus Jakarta Sans',
                                       fontWeight: FontWeight.w600,
                                     ),
                           ),
@@ -478,7 +478,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                 textStyle: FlutterFlowTheme.of(context)
                                     .titleSmall
                                     .override(
-                                      fontFamily: 'Inter',
+                                      fontFamily: 'Plus Jakarta Sans',
                                       fontSize: 12.0,
                                     ),
                                 borderSide: const BorderSide(
@@ -508,7 +508,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                   textStyle: FlutterFlowTheme.of(context)
                                       .titleSmall
                                       .override(
-                                        fontFamily: 'Inter',
+                                        fontFamily: 'Plus Jakarta Sans',
                                         color: FlutterFlowTheme.of(context)
                                             .primaryText,
                                         fontSize: 12.0,
@@ -541,7 +541,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                   textStyle: FlutterFlowTheme.of(context)
                                       .titleSmall
                                       .override(
-                                        fontFamily: 'Inter',
+                                        fontFamily: 'Plus Jakarta Sans',
                                         color: FlutterFlowTheme.of(context)
                                             .primaryText,
                                         fontSize: 12.0,
@@ -574,7 +574,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                   textStyle: FlutterFlowTheme.of(context)
                                       .titleSmall
                                       .override(
-                                        fontFamily: 'Inter',
+                                        fontFamily: 'Plus Jakarta Sans',
                                         color: FlutterFlowTheme.of(context)
                                             .primaryText,
                                         fontSize: 12.0,
@@ -643,7 +643,8 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                                           context)
                                                       .titleSmall
                                                       .override(
-                                                        fontFamily: 'Inter',
+                                                        fontFamily:
+                                                            'Plus Jakarta Sans',
                                                         fontSize: 6.0,
                                                       ),
                                                 ),
@@ -664,7 +665,8 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                                   FlutterFlowTheme.of(context)
                                                       .titleSmall
                                                       .override(
-                                                        fontFamily: 'Inter',
+                                                        fontFamily:
+                                                            'Plus Jakarta Sans',
                                                         fontSize: 10.0,
                                                       ),
                                             ),
@@ -709,7 +711,8 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                                           context)
                                                       .titleSmall
                                                       .override(
-                                                        fontFamily: 'Inter',
+                                                        fontFamily:
+                                                            'Plus Jakarta Sans',
                                                         fontSize: 6.0,
                                                       ),
                                                 ),
@@ -744,7 +747,8 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                                   FlutterFlowTheme.of(context)
                                                       .titleSmall
                                                       .override(
-                                                        fontFamily: 'Inter',
+                                                        fontFamily:
+                                                            'Plus Jakarta Sans',
                                                         fontSize: 10.0,
                                                       ),
                                             ),
@@ -775,7 +779,8 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                                           context)
                                                       .titleSmall
                                                       .override(
-                                                        fontFamily: 'Inter',
+                                                        fontFamily:
+                                                            'Plus Jakarta Sans',
                                                         fontSize: 6.0,
                                                       ),
                                                 ),
@@ -806,7 +811,8 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                             style: FlutterFlowTheme.of(context)
                                                 .titleSmall
                                                 .override(
-                                                  fontFamily: 'Inter',
+                                                  fontFamily:
+                                                      'Plus Jakarta Sans',
                                                   fontSize: 10.0,
                                                 ),
                                           ),
@@ -837,7 +843,8 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                                           context)
                                                       .titleSmall
                                                       .override(
-                                                        fontFamily: 'Inter',
+                                                        fontFamily:
+                                                            'Plus Jakarta Sans',
                                                         fontSize: 6.0,
                                                       ),
                                                 ),
@@ -868,7 +875,8 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                             style: FlutterFlowTheme.of(context)
                                                 .titleSmall
                                                 .override(
-                                                  fontFamily: 'Inter',
+                                                  fontFamily:
+                                                      'Plus Jakarta Sans',
                                                   fontSize: 10.0,
                                                 ),
                                           ),
@@ -899,7 +907,8 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                                           context)
                                                       .titleSmall
                                                       .override(
-                                                        fontFamily: 'Inter',
+                                                        fontFamily:
+                                                            'Plus Jakarta Sans',
                                                         fontSize: 6.0,
                                                       ),
                                                 ),
@@ -946,7 +955,8 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                                           context)
                                                       .titleSmall
                                                       .override(
-                                                        fontFamily: 'Inter',
+                                                        fontFamily:
+                                                            'Plus Jakarta Sans',
                                                         fontSize: 6.0,
                                                       ),
                                                 ),
@@ -967,7 +977,8 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                                   FlutterFlowTheme.of(context)
                                                       .titleSmall
                                                       .override(
-                                                        fontFamily: 'Inter',
+                                                        fontFamily:
+                                                            'Plus Jakarta Sans',
                                                         fontSize: 10.0,
                                                       ),
                                             ),
@@ -1012,7 +1023,8 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                                           context)
                                                       .titleSmall
                                                       .override(
-                                                        fontFamily: 'Inter',
+                                                        fontFamily:
+                                                            'Plus Jakarta Sans',
                                                         fontSize: 6.0,
                                                       ),
                                                 ),
@@ -1033,7 +1045,8 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                                   FlutterFlowTheme.of(context)
                                                       .titleSmall
                                                       .override(
-                                                        fontFamily: 'Inter',
+                                                        fontFamily:
+                                                            'Plus Jakarta Sans',
                                                         fontSize: 10.0,
                                                       ),
                                             ),
@@ -1062,7 +1075,8 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                             style: FlutterFlowTheme.of(context)
                                                 .titleSmall
                                                 .override(
-                                                  fontFamily: 'Inter',
+                                                  fontFamily:
+                                                      'Plus Jakarta Sans',
                                                   fontSize: 10.0,
                                                 ),
                                           ),
@@ -1092,7 +1106,8 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                                           context)
                                                       .titleSmall
                                                       .override(
-                                                        fontFamily: 'Inter',
+                                                        fontFamily:
+                                                            'Plus Jakarta Sans',
                                                         fontSize: 6.0,
                                                       ),
                                                 ),
@@ -1139,7 +1154,8 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                                           context)
                                                       .titleSmall
                                                       .override(
-                                                        fontFamily: 'Inter',
+                                                        fontFamily:
+                                                            'Plus Jakarta Sans',
                                                         fontSize: 6.0,
                                                       ),
                                                 ),
@@ -1160,7 +1176,8 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                                   FlutterFlowTheme.of(context)
                                                       .titleSmall
                                                       .override(
-                                                        fontFamily: 'Inter',
+                                                        fontFamily:
+                                                            'Plus Jakarta Sans',
                                                         fontSize: 10.0,
                                                       ),
                                             ),
@@ -1189,7 +1206,8 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                             style: FlutterFlowTheme.of(context)
                                                 .titleSmall
                                                 .override(
-                                                  fontFamily: 'Inter',
+                                                  fontFamily:
+                                                      'Plus Jakarta Sans',
                                                   fontSize: 10.0,
                                                 ),
                                           ),
@@ -1219,7 +1237,8 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                                           context)
                                                       .titleSmall
                                                       .override(
-                                                        fontFamily: 'Inter',
+                                                        fontFamily:
+                                                            'Plus Jakarta Sans',
                                                         fontSize: 6.0,
                                                       ),
                                                 ),
@@ -1250,7 +1269,8 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                             style: FlutterFlowTheme.of(context)
                                                 .titleSmall
                                                 .override(
-                                                  fontFamily: 'Inter',
+                                                  fontFamily:
+                                                      'Plus Jakarta Sans',
                                                   fontSize: 10.0,
                                                 ),
                                           ),
@@ -1280,7 +1300,8 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                                           context)
                                                       .titleSmall
                                                       .override(
-                                                        fontFamily: 'Inter',
+                                                        fontFamily:
+                                                            'Plus Jakarta Sans',
                                                         fontSize: 6.0,
                                                       ),
                                                 ),
@@ -1327,7 +1348,8 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                                           context)
                                                       .titleSmall
                                                       .override(
-                                                        fontFamily: 'Inter',
+                                                        fontFamily:
+                                                            'Plus Jakarta Sans',
                                                         fontSize: 6.0,
                                                       ),
                                                 ),
@@ -1348,7 +1370,8 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                                   FlutterFlowTheme.of(context)
                                                       .titleSmall
                                                       .override(
-                                                        fontFamily: 'Inter',
+                                                        fontFamily:
+                                                            'Plus Jakarta Sans',
                                                         fontSize: 10.0,
                                                       ),
                                             ),

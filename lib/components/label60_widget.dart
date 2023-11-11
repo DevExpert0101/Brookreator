@@ -57,7 +57,7 @@ class _Label60WidgetState extends State<Label60Widget> {
                 child: Text(
                   '60',
                   style: FlutterFlowTheme.of(context).labelLarge.override(
-                        fontFamily: 'Inter',
+                        fontFamily: 'Plus Jakarta Sans',
                         fontSize: 18.0,
                       ),
                 ),

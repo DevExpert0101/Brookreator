@@ -57,11 +57,6 @@ GoRouter createRouter(AppStateNotifier appStateNotifier) => GoRouter(
           builder: (context, params) => const AivideoWidget(),
         ),
         FFRoute(
-          name: 'QRGenerator',
-          path: '/qRGenerator',
-          builder: (context, params) => const QRGeneratorWidget(),
-        ),
-        FFRoute(
           name: 'MyPictures',
           path: '/myPictures',
           builder: (context, params) => const MyPicturesWidget(),
@@ -95,6 +90,76 @@ GoRouter createRouter(AppStateNotifier appStateNotifier) => GoRouter(
           name: 'Privacy_Policy',
           path: '/privacyPolicy',
           builder: (context, params) => const PrivacyPolicyWidget(),
+        ),
+        FFRoute(
+          name: 'openapp',
+          path: '/openapp',
+          builder: (context, params) => const OpenappWidget(),
+        ),
+        FFRoute(
+          name: 'OpenAppScreen',
+          path: '/openAppScreen',
+          builder: (context, params) => const OpenAppScreenWidget(),
+        ),
+        FFRoute(
+          name: 'Settings',
+          path: '/settings',
+          builder: (context, params) => const SettingsWidget(),
+        ),
+        FFRoute(
+          name: 'SignIn',
+          path: '/signIn',
+          builder: (context, params) => const SignInWidget(),
+        ),
+        FFRoute(
+          name: 'CreateAccount',
+          path: '/createAccount',
+          builder: (context, params) => const CreateAccountWidget(),
+        ),
+        FFRoute(
+          name: 'MyPicture',
+          path: '/myPicture',
+          builder: (context, params) => const MyPictureWidget(),
+        ),
+        FFRoute(
+          name: 'Start',
+          path: '/start',
+          builder: (context, params) => const StartWidget(),
+        ),
+        FFRoute(
+          name: 'Generating',
+          path: '/generating',
+          builder: (context, params) => const GeneratingWidget(),
+        ),
+        FFRoute(
+          name: 'Done',
+          path: '/done',
+          builder: (context, params) => const DoneWidget(),
+        ),
+        FFRoute(
+          name: 'ResultGenerate',
+          path: '/resultGenerate',
+          builder: (context, params) => const ResultGenerateWidget(),
+        ),
+        FFRoute(
+          name: 'UploadingGuide',
+          path: '/uploadingGuide',
+          builder: (context, params) => const UploadingGuideWidget(),
+        ),
+        FFRoute(
+          name: 'Home',
+          path: '/home',
+          builder: (context, params) => const HomeWidget(),
+        ),
+        FFRoute(
+          name: 'InputData',
+          path: '/inputData',
+          builder: (context, params) => const InputDataWidget(),
+        ),
+        FFRoute(
+          name: 'Link',
+          path: '/link',
+          builder: (context, params) => const LinkWidget(),
         )
       ].map((r) => r.toRoute(appStateNotifier)).toList(),
     );

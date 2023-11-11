@@ -57,7 +57,7 @@ class _AivideoWidgetState extends State<AivideoWidget> {
           title: Text(
             'Page Title',
             style: FlutterFlowTheme.of(context).headlineMedium.override(
-                  fontFamily: 'Inter',
+                  fontFamily: 'Plus Jakarta Sans',
                   color: Colors.white,
                   fontSize: 22.0,
                 ),
@@ -137,7 +137,7 @@ class _AivideoWidgetState extends State<AivideoWidget> {
                               style: FlutterFlowTheme.of(context)
                                   .bodyMedium
                                   .override(
-                                    fontFamily: 'Inter',
+                                    fontFamily: 'Plus Jakarta Sans',
                                     color: Colors.white,
                                   ),
                               textAlign: TextAlign.center,
@@ -154,7 +154,7 @@ class _AivideoWidgetState extends State<AivideoWidget> {
                             style: FlutterFlowTheme.of(context)
                                 .titleLarge
                                 .override(
-                                  fontFamily: 'Inter',
+                                  fontFamily: 'Plus Jakarta Sans',
                                   color: const Color(0xFF5698F4),
                                 ),
                           ),
@@ -199,7 +199,7 @@ class _AivideoWidgetState extends State<AivideoWidget> {
                                         style: FlutterFlowTheme.of(context)
                                             .titleMedium
                                             .override(
-                                              fontFamily: 'Inter',
+                                              fontFamily: 'Plus Jakarta Sans',
                                               color: const Color(0xFF5698F4),
                                               fontWeight: FontWeight.bold,
                                             ),
@@ -209,7 +209,7 @@ class _AivideoWidgetState extends State<AivideoWidget> {
                                         style: FlutterFlowTheme.of(context)
                                             .bodyMedium
                                             .override(
-                                              fontFamily: 'Inter',
+                                              fontFamily: 'Plus Jakarta Sans',
                                               fontWeight: FontWeight.bold,
                                             ),
                                       ),
@@ -271,7 +271,8 @@ class _AivideoWidgetState extends State<AivideoWidget> {
                                                   FlutterFlowTheme.of(context)
                                                       .bodyMedium
                                                       .override(
-                                                        fontFamily: 'Inter',
+                                                        fontFamily:
+                                                            'Plus Jakarta Sans',
                                                         color:
                                                             const Color(0xFF9D9D9D),
                                                       ),
@@ -316,7 +317,7 @@ class _AivideoWidgetState extends State<AivideoWidget> {
                                       style: FlutterFlowTheme.of(context)
                                           .titleMedium
                                           .override(
-                                            fontFamily: 'Inter',
+                                            fontFamily: 'Plus Jakarta Sans',
                                             color: const Color(0xFF5698F4),
                                             fontWeight: FontWeight.bold,
                                           ),
@@ -326,7 +327,7 @@ class _AivideoWidgetState extends State<AivideoWidget> {
                                       style: FlutterFlowTheme.of(context)
                                           .bodyMedium
                                           .override(
-                                            fontFamily: 'Inter',
+                                            fontFamily: 'Plus Jakarta Sans',
                                             fontWeight: FontWeight.bold,
                                           ),
                                     ),
@@ -335,7 +336,7 @@ class _AivideoWidgetState extends State<AivideoWidget> {
                                       style: FlutterFlowTheme.of(context)
                                           .bodyMedium
                                           .override(
-                                            fontFamily: 'Inter',
+                                            fontFamily: 'Plus Jakarta Sans',
                                             color: const Color(0xFFDE223E),
                                           ),
                                     ),
@@ -379,7 +380,7 @@ class _AivideoWidgetState extends State<AivideoWidget> {
                                         style: FlutterFlowTheme.of(context)
                                             .titleSmall
                                             .override(
-                                              fontFamily: 'Inter',
+                                              fontFamily: 'Plus Jakarta Sans',
                                               color: Colors.black,
                                             ),
                                       ),
@@ -388,7 +389,7 @@ class _AivideoWidgetState extends State<AivideoWidget> {
                                         style: FlutterFlowTheme.of(context)
                                             .bodySmall
                                             .override(
-                                              fontFamily: 'Inter',
+                                              fontFamily: 'Plus Jakarta Sans',
                                               color: const Color(0xFF9D9D9D),
                                             ),
                                       ),
@@ -431,7 +432,7 @@ class _AivideoWidgetState extends State<AivideoWidget> {
                                         style: FlutterFlowTheme.of(context)
                                             .titleMedium
                                             .override(
-                                              fontFamily: 'Inter',
+                                              fontFamily: 'Plus Jakarta Sans',
                                               color: const Color(0xFF5698F4),
                                               fontWeight: FontWeight.bold,
                                             ),
@@ -441,7 +442,7 @@ class _AivideoWidgetState extends State<AivideoWidget> {
                                         style: FlutterFlowTheme.of(context)
                                             .bodyMedium
                                             .override(
-                                              fontFamily: 'Inter',
+                                              fontFamily: 'Plus Jakarta Sans',
                                               fontWeight: FontWeight.bold,
                                             ),
                                       ),
@@ -491,7 +492,8 @@ class _AivideoWidgetState extends State<AivideoWidget> {
                                                     FlutterFlowTheme.of(context)
                                                         .bodySmall
                                                         .override(
-                                                          fontFamily: 'Inter',
+                                                          fontFamily:
+                                                              'Plus Jakarta Sans',
                                                           color:
                                                               const Color(0xFFCDCDCD),
                                                         ),
@@ -532,7 +534,8 @@ class _AivideoWidgetState extends State<AivideoWidget> {
                                                     FlutterFlowTheme.of(context)
                                                         .bodySmall
                                                         .override(
-                                                          fontFamily: 'Inter',
+                                                          fontFamily:
+                                                              'Plus Jakarta Sans',
                                                           color:
                                                               const Color(0xFFCDCDCD),
                                                         ),

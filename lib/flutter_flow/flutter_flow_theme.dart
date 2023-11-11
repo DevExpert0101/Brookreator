@@ -131,10 +131,10 @@ class LightModeTheme extends FlutterFlowTheme {
   late Color secondary = const Color(0xFF39D2C0);
   late Color tertiary = const Color(0xFFEE8B60);
   late Color alternate = const Color(0xFFE0E3E7);
-  late Color primaryText = const Color(0xFF14181B);
-  late Color secondaryText = const Color(0xFF57636C);
-  late Color primaryBackground = const Color(0xFFF1F4F8);
-  late Color secondaryBackground = const Color(0xFFFFFFFF);
+  late Color primaryText = const Color(0xFF181818);
+  late Color secondaryText = const Color(0xFF6F6F6F);
+  late Color primaryBackground = const Color(0xFFFFFFFF);
+  late Color secondaryBackground = const Color(0xFFF4F4F4);
   late Color accent1 = const Color(0x4C4B39EF);
   late Color accent2 = const Color(0x4D39D2C0);
   late Color accent3 = const Color(0x4DEE8B60);
@@ -185,107 +185,107 @@ class ThemeTypography extends Typography {
 
   final FlutterFlowTheme theme;
 
-  String get displayLargeFamily => 'Inter';
+  String get displayLargeFamily => 'Plus Jakarta Sans';
   TextStyle get displayLarge => GoogleFonts.getFont(
-        'Inter',
+        'Plus Jakarta Sans',
         color: theme.primaryText,
         fontWeight: FontWeight.normal,
         fontSize: 64.0,
       );
-  String get displayMediumFamily => 'Inter';
+  String get displayMediumFamily => 'Plus Jakarta Sans';
   TextStyle get displayMedium => GoogleFonts.getFont(
-        'Inter',
+        'Plus Jakarta Sans',
         color: theme.primaryText,
         fontWeight: FontWeight.normal,
         fontSize: 44.0,
       );
-  String get displaySmallFamily => 'Inter';
+  String get displaySmallFamily => 'Plus Jakarta Sans';
   TextStyle get displaySmall => GoogleFonts.getFont(
-        'Inter',
+        'Plus Jakarta Sans',
         color: theme.primaryText,
         fontWeight: FontWeight.w600,
         fontSize: 36.0,
       );
-  String get headlineLargeFamily => 'Inter';
+  String get headlineLargeFamily => 'Plus Jakarta Sans';
   TextStyle get headlineLarge => GoogleFonts.getFont(
-        'Inter',
+        'Plus Jakarta Sans',
         color: theme.primaryText,
         fontWeight: FontWeight.w600,
         fontSize: 32.0,
       );
-  String get headlineMediumFamily => 'Inter';
+  String get headlineMediumFamily => 'Plus Jakarta Sans';
   TextStyle get headlineMedium => GoogleFonts.getFont(
-        'Inter',
+        'Plus Jakarta Sans',
         color: theme.primaryText,
         fontWeight: FontWeight.normal,
         fontSize: 24.0,
       );
-  String get headlineSmallFamily => 'Inter';
+  String get headlineSmallFamily => 'Plus Jakarta Sans';
   TextStyle get headlineSmall => GoogleFonts.getFont(
-        'Inter',
+        'Plus Jakarta Sans',
         color: theme.primaryText,
         fontWeight: FontWeight.w500,
         fontSize: 24.0,
       );
-  String get titleLargeFamily => 'Inter';
+  String get titleLargeFamily => 'Plus Jakarta Sans';
   TextStyle get titleLarge => GoogleFonts.getFont(
-        'Inter',
+        'Plus Jakarta Sans',
         color: theme.primaryText,
         fontWeight: FontWeight.w500,
         fontSize: 22.0,
       );
-  String get titleMediumFamily => 'Inter';
+  String get titleMediumFamily => 'Plus Jakarta Sans';
   TextStyle get titleMedium => GoogleFonts.getFont(
-        'Inter',
+        'Plus Jakarta Sans',
         color: theme.info,
         fontWeight: FontWeight.normal,
         fontSize: 18.0,
       );
-  String get titleSmallFamily => 'Inter';
+  String get titleSmallFamily => 'Plus Jakarta Sans';
   TextStyle get titleSmall => GoogleFonts.getFont(
-        'Inter',
+        'Plus Jakarta Sans',
         color: theme.info,
         fontWeight: FontWeight.w500,
         fontSize: 16.0,
       );
-  String get labelLargeFamily => 'Inter';
+  String get labelLargeFamily => 'Plus Jakarta Sans';
   TextStyle get labelLarge => GoogleFonts.getFont(
-        'Inter',
+        'Plus Jakarta Sans',
         color: theme.secondaryText,
         fontWeight: FontWeight.normal,
         fontSize: 16.0,
       );
-  String get labelMediumFamily => 'Inter';
+  String get labelMediumFamily => 'Plus Jakarta Sans';
   TextStyle get labelMedium => GoogleFonts.getFont(
-        'Inter',
+        'Plus Jakarta Sans',
         color: theme.secondaryText,
         fontWeight: FontWeight.normal,
         fontSize: 14.0,
       );
-  String get labelSmallFamily => 'Inter';
+  String get labelSmallFamily => 'Plus Jakarta Sans';
   TextStyle get labelSmall => GoogleFonts.getFont(
-        'Inter',
+        'Plus Jakarta Sans',
         color: theme.secondaryText,
         fontWeight: FontWeight.normal,
         fontSize: 12.0,
       );
-  String get bodyLargeFamily => 'Inter';
+  String get bodyLargeFamily => 'Plus Jakarta Sans';
   TextStyle get bodyLarge => GoogleFonts.getFont(
-        'Inter',
+        'Plus Jakarta Sans',
         color: theme.primaryText,
         fontWeight: FontWeight.normal,
         fontSize: 16.0,
       );
-  String get bodyMediumFamily => 'Inter';
+  String get bodyMediumFamily => 'Plus Jakarta Sans';
   TextStyle get bodyMedium => GoogleFonts.getFont(
-        'Inter',
+        'Plus Jakarta Sans',
         color: theme.primaryText,
         fontWeight: FontWeight.normal,
         fontSize: 14.0,
       );
-  String get bodySmallFamily => 'Inter';
+  String get bodySmallFamily => 'Plus Jakarta Sans';
   TextStyle get bodySmall => GoogleFonts.getFont(
-        'Inter',
+        'Plus Jakarta Sans',
         color: theme.primaryText,
         fontWeight: FontWeight.normal,
         fontSize: 12.0,

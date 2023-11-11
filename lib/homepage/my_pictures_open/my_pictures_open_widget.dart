@@ -102,7 +102,7 @@ class _MyPicturesOpenWidgetState extends State<MyPicturesOpenWidget> {
                                           style: FlutterFlowTheme.of(context)
                                               .bodyLarge
                                               .override(
-                                                fontFamily: 'Inter',
+                                                fontFamily: 'Plus Jakarta Sans',
                                                 fontSize: 22.0,
                                                 fontWeight: FontWeight.bold,
                                               ),
@@ -135,7 +135,7 @@ class _MyPicturesOpenWidgetState extends State<MyPicturesOpenWidget> {
                                       style: FlutterFlowTheme.of(context)
                                           .bodyMedium
                                           .override(
-                                            fontFamily: 'Inter',
+                                            fontFamily: 'Plus Jakarta Sans',
                                             fontWeight: FontWeight.w600,
                                           ),
                                     ),
@@ -148,7 +148,7 @@ class _MyPicturesOpenWidgetState extends State<MyPicturesOpenWidget> {
                                       style: FlutterFlowTheme.of(context)
                                           .bodyMedium
                                           .override(
-                                            fontFamily: 'Inter',
+                                            fontFamily: 'Plus Jakarta Sans',
                                             fontWeight: FontWeight.w600,
                                           ),
                                     ),
@@ -204,7 +204,8 @@ class _MyPicturesOpenWidgetState extends State<MyPicturesOpenWidget> {
                                                               context)
                                                           .titleSmall
                                                           .override(
-                                                            fontFamily: 'Inter',
+                                                            fontFamily:
+                                                                'Plus Jakarta Sans',
                                                             color: Colors.white,
                                                           ),
                                                   borderSide: const BorderSide(
@@ -241,7 +242,8 @@ class _MyPicturesOpenWidgetState extends State<MyPicturesOpenWidget> {
                                                               context)
                                                           .titleSmall
                                                           .override(
-                                                            fontFamily: 'Inter',
+                                                            fontFamily:
+                                                                'Plus Jakarta Sans',
                                                             color: Colors.white,
                                                           ),
                                                   borderSide: const BorderSide(
@@ -284,7 +286,8 @@ class _MyPicturesOpenWidgetState extends State<MyPicturesOpenWidget> {
                                                 FlutterFlowTheme.of(context)
                                                     .titleSmall
                                                     .override(
-                                                      fontFamily: 'Inter',
+                                                      fontFamily:
+                                                          'Plus Jakarta Sans',
                                                       fontSize: 12.0,
                                                     ),
                                             elevation: 3.0,
@@ -319,7 +322,8 @@ class _MyPicturesOpenWidgetState extends State<MyPicturesOpenWidget> {
                                                   FlutterFlowTheme.of(context)
                                                       .titleSmall
                                                       .override(
-                                                        fontFamily: 'Inter',
+                                                        fontFamily:
+                                                            'Plus Jakarta Sans',
                                                         color:
                                                             FlutterFlowTheme.of(
                                                                     context)
@@ -359,7 +363,8 @@ class _MyPicturesOpenWidgetState extends State<MyPicturesOpenWidget> {
                                                   FlutterFlowTheme.of(context)
                                                       .titleSmall
                                                       .override(
-                                                        fontFamily: 'Inter',
+                                                        fontFamily:
+                                                            'Plus Jakarta Sans',
                                                         color:
                                                             FlutterFlowTheme.of(
                                                                     context)
@@ -399,7 +404,8 @@ class _MyPicturesOpenWidgetState extends State<MyPicturesOpenWidget> {
                                                   FlutterFlowTheme.of(context)
                                                       .titleSmall
                                                       .override(
-                                                        fontFamily: 'Inter',
+                                                        fontFamily:
+                                                            'Plus Jakarta Sans',
                                                         color:
                                                             FlutterFlowTheme.of(
                                                                     context)
@@ -439,7 +445,8 @@ class _MyPicturesOpenWidgetState extends State<MyPicturesOpenWidget> {
                                                   FlutterFlowTheme.of(context)
                                                       .titleSmall
                                                       .override(
-                                                        fontFamily: 'Inter',
+                                                        fontFamily:
+                                                            'Plus Jakarta Sans',
                                                         color:
                                                             FlutterFlowTheme.of(
                                                                     context)
@@ -549,7 +556,7 @@ class _MyPicturesOpenWidgetState extends State<MyPicturesOpenWidget> {
                                                               .titleSmall
                                                               .override(
                                                                 fontFamily:
-                                                                    'Inter',
+                                                                    'Plus Jakarta Sans',
                                                                 fontSize: 8.0,
                                                                 fontWeight:
                                                                     FontWeight
@@ -577,7 +584,7 @@ class _MyPicturesOpenWidgetState extends State<MyPicturesOpenWidget> {
                                                               .titleSmall
                                                               .override(
                                                                 fontFamily:
-                                                                    'Inter',
+                                                                    'Plus Jakarta Sans',
                                                                 fontSize: 7.0,
                                                                 fontWeight:
                                                                     FontWeight
@@ -605,7 +612,7 @@ class _MyPicturesOpenWidgetState extends State<MyPicturesOpenWidget> {
                                                               .titleSmall
                                                               .override(
                                                                 fontFamily:
-                                                                    'Inter',
+                                                                    'Plus Jakarta Sans',
                                                                 fontSize: 6.0,
                                                                 fontWeight:
                                                                     FontWeight
@@ -689,7 +696,7 @@ class _MyPicturesOpenWidgetState extends State<MyPicturesOpenWidget> {
                                                               .titleSmall
                                                               .override(
                                                                 fontFamily:
-                                                                    'Inter',
+                                                                    'Plus Jakarta Sans',
                                                                 fontSize: 6.0,
                                                                 fontWeight:
                                                                     FontWeight
@@ -717,7 +724,7 @@ class _MyPicturesOpenWidgetState extends State<MyPicturesOpenWidget> {
                                                               .titleSmall
                                                               .override(
                                                                 fontFamily:
-                                                                    'Inter',
+                                                                    'Plus Jakarta Sans',
                                                                 fontSize: 7.0,
                                                                 fontWeight:
                                                                     FontWeight
@@ -745,7 +752,7 @@ class _MyPicturesOpenWidgetState extends State<MyPicturesOpenWidget> {
                                                               .titleSmall
                                                               .override(
                                                                 fontFamily:
-                                                                    'Inter',
+                                                                    'Plus Jakarta Sans',
                                                                 fontSize: 8.0,
                                                                 fontWeight:
                                                                     FontWeight
@@ -889,7 +896,7 @@ class _MyPicturesOpenWidgetState extends State<MyPicturesOpenWidget> {
                                       style: FlutterFlowTheme.of(context)
                                           .bodyMedium
                                           .override(
-                                            fontFamily: 'Inter',
+                                            fontFamily: 'Plus Jakarta Sans',
                                             color: const Color(0xFFC4C4C4),
                                             fontSize: 16.0,
                                             fontWeight: FontWeight.w600,
@@ -959,7 +966,7 @@ class _MyPicturesOpenWidgetState extends State<MyPicturesOpenWidget> {
                             style: FlutterFlowTheme.of(context)
                                 .bodyMedium
                                 .override(
-                                  fontFamily: 'Inter',
+                                  fontFamily: 'Plus Jakarta Sans',
                                   fontSize: 22.0,
                                   fontWeight: FontWeight.bold,
                                 ),
@@ -1011,7 +1018,7 @@ class _MyPicturesOpenWidgetState extends State<MyPicturesOpenWidget> {
                                       textStyle: FlutterFlowTheme.of(context)
                                           .titleSmall
                                           .override(
-                                            fontFamily: 'Inter',
+                                            fontFamily: 'Plus Jakarta Sans',
                                             color: FlutterFlowTheme.of(context)
                                                 .primaryText,
                                             fontSize: 12.0,
@@ -1089,7 +1096,7 @@ class _MyPicturesOpenWidgetState extends State<MyPicturesOpenWidget> {
                                       textStyle: FlutterFlowTheme.of(context)
                                           .titleSmall
                                           .override(
-                                            fontFamily: 'Inter',
+                                            fontFamily: 'Plus Jakarta Sans',
                                             color: FlutterFlowTheme.of(context)
                                                 .primaryText,
                                             fontSize: 20.0,
@@ -1131,7 +1138,7 @@ class _MyPicturesOpenWidgetState extends State<MyPicturesOpenWidget> {
                                       textStyle: FlutterFlowTheme.of(context)
                                           .titleSmall
                                           .override(
-                                            fontFamily: 'Inter',
+                                            fontFamily: 'Plus Jakarta Sans',
                                             color: FlutterFlowTheme.of(context)
                                                 .primaryText,
                                             fontSize: 60.0,
@@ -1166,7 +1173,7 @@ class _MyPicturesOpenWidgetState extends State<MyPicturesOpenWidget> {
                                   style: FlutterFlowTheme.of(context)
                                       .bodyMedium
                                       .override(
-                                        fontFamily: 'Inter',
+                                        fontFamily: 'Plus Jakarta Sans',
                                         color: FlutterFlowTheme.of(context)
                                             .secondaryText,
                                         fontSize: 10.0,
@@ -1184,7 +1191,7 @@ class _MyPicturesOpenWidgetState extends State<MyPicturesOpenWidget> {
                                     style: FlutterFlowTheme.of(context)
                                         .bodyMedium
                                         .override(
-                                          fontFamily: 'Inter',
+                                          fontFamily: 'Plus Jakarta Sans',
                                           fontSize: 13.0,
                                           fontWeight: FontWeight.w500,
                                         ),
@@ -1201,7 +1208,7 @@ class _MyPicturesOpenWidgetState extends State<MyPicturesOpenWidget> {
                                     style: FlutterFlowTheme.of(context)
                                         .bodyMedium
                                         .override(
-                                          fontFamily: 'Inter',
+                                          fontFamily: 'Plus Jakarta Sans',
                                           color: FlutterFlowTheme.of(context)
                                               .secondaryText,
                                           fontSize: 10.0,
@@ -1220,7 +1227,7 @@ class _MyPicturesOpenWidgetState extends State<MyPicturesOpenWidget> {
                                     style: FlutterFlowTheme.of(context)
                                         .bodyMedium
                                         .override(
-                                          fontFamily: 'Inter',
+                                          fontFamily: 'Plus Jakarta Sans',
                                           fontSize: 13.0,
                                           fontWeight: FontWeight.w500,
                                         ),
@@ -1250,7 +1257,8 @@ class _MyPicturesOpenWidgetState extends State<MyPicturesOpenWidget> {
                                                       context)
                                                   .bodyMedium
                                                   .override(
-                                                    fontFamily: 'Inter',
+                                                    fontFamily:
+                                                        'Plus Jakarta Sans',
                                                     color: FlutterFlowTheme.of(
                                                             context)
                                                         .secondaryText,
@@ -1272,7 +1280,8 @@ class _MyPicturesOpenWidgetState extends State<MyPicturesOpenWidget> {
                                                     FlutterFlowTheme.of(context)
                                                         .bodyMedium
                                                         .override(
-                                                          fontFamily: 'Inter',
+                                                          fontFamily:
+                                                              'Plus Jakarta Sans',
                                                           color: FlutterFlowTheme
                                                                   .of(context)
                                                               .secondaryText,
@@ -1299,7 +1308,8 @@ class _MyPicturesOpenWidgetState extends State<MyPicturesOpenWidget> {
                                                     FlutterFlowTheme.of(context)
                                                         .bodyMedium
                                                         .override(
-                                                          fontFamily: 'Inter',
+                                                          fontFamily:
+                                                              'Plus Jakarta Sans',
                                                           color: FlutterFlowTheme
                                                                   .of(context)
                                                               .primaryText,
@@ -1322,7 +1332,8 @@ class _MyPicturesOpenWidgetState extends State<MyPicturesOpenWidget> {
                                                           context)
                                                       .bodyMedium
                                                       .override(
-                                                        fontFamily: 'Inter',
+                                                        fontFamily:
+                                                            'Plus Jakarta Sans',
                                                         color:
                                                             FlutterFlowTheme.of(
                                                                     context)

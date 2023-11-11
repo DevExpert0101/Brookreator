@@ -88,7 +88,7 @@ class _AboutUSWidgetState extends State<AboutUSWidget> {
                               style: FlutterFlowTheme.of(context)
                                   .bodyLarge
                                   .override(
-                                    fontFamily: 'Inter',
+                                    fontFamily: 'Plus Jakarta Sans',
                                     fontSize: 22.0,
                                     fontWeight: FontWeight.bold,
                                   ),
@@ -107,7 +107,7 @@ class _AboutUSWidgetState extends State<AboutUSWidget> {
                   child: Text(
                     'Elevating Creativity with AI: Free Your Mind',
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                          fontFamily: 'Inter',
+                          fontFamily: 'Plus Jakarta Sans',
                           fontWeight: FontWeight.w600,
                         ),
                   ),
@@ -121,7 +121,7 @@ class _AboutUSWidgetState extends State<AboutUSWidget> {
                   child: Text(
                     'Welcome to Brookreator, where we break down the barriers between thought and visual expression. We are at the exciting juncture where artificial intelligence has matured to a point of unprecedented efficiency, quality, and accessibility. Thanks to the AI open-source community, countries like Thailand can harness this innovative technology to explore new frontiers in creativity, expression, and communication. This image model generation is made freely available under the CCO 1.0 Creative Commons license.',
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                          fontFamily: 'Inter',
+                          fontFamily: 'Plus Jakarta Sans',
                           fontSize: 12.0,
                           fontWeight: FontWeight.normal,
                         ),
@@ -135,7 +135,7 @@ class _AboutUSWidgetState extends State<AboutUSWidget> {
                   child: Text(
                     'Our Mission: Powering a Creative Renaissance',
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                          fontFamily: 'Inter',
+                          fontFamily: 'Plus Jakarta Sans',
                           fontWeight: FontWeight.w600,
                         ),
                   ),
@@ -149,7 +149,7 @@ class _AboutUSWidgetState extends State<AboutUSWidget> {
                   child: Text(
                     'We are thrilled to offer a cutting-edge image generator for the Thai community and share best practices as public resource to upskill talent. Whether you\'re a professional designer or someone who simply loves to play and experiment, Brookreator invites you to transform your ideas into captivating visuals. You don\'t need to be an artist or tech guru to join this new era of digital creativity; all you need is your imagination.',
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                          fontFamily: 'Inter',
+                          fontFamily: 'Plus Jakarta Sans',
                           fontSize: 12.0,
                           fontWeight: FontWeight.normal,
                         ),
@@ -163,7 +163,7 @@ class _AboutUSWidgetState extends State<AboutUSWidget> {
                   child: Text(
                     'How it Works: Turn Text into Visual Wonders',
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                          fontFamily: 'Inter',
+                          fontFamily: 'Plus Jakarta Sans',
                           fontWeight: FontWeight.w600,
                         ),
                   ),
@@ -177,7 +177,7 @@ class _AboutUSWidgetState extends State<AboutUSWidget> {
                   child: Text(
                     'Brookreator makes it as simple as typing a prompt or choosing our prefilled templates to generate eye-catching images. For optimal quality, we recommend you visit our Prompt Guide for tips on crafting effective prompts. To connect with a community of like-minded individuals, share ideas, and get inspired, join our Discord channel.',
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                          fontFamily: 'Inter',
+                          fontFamily: 'Plus Jakarta Sans',
                           fontSize: 12.0,
                           fontWeight: FontWeight.normal,
                         ),
@@ -191,7 +191,7 @@ class _AboutUSWidgetState extends State<AboutUSWidget> {
                   child: Text(
                     'Infinite Potential: Bridging the Gap Between Art and \nCommerce',
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                          fontFamily: 'Inter',
+                          fontFamily: 'Plus Jakarta Sans',
                           fontWeight: FontWeight.w600,
                         ),
                   ),
@@ -205,7 +205,7 @@ class _AboutUSWidgetState extends State<AboutUSWidget> {
                   child: Text(
                     'The reach of Brookreator\'s platform is virtually unlimited, serving a broad spectrum of industries and creative avenues—from the realms of abstract and modern art to multimedia productions like films and memes. Picture crafting bespoke greeting cards, scripting inventive movie plots, designing unique game elements, or creating compelling visuals for marketing campaigns. With Brookreator, the only limitation is the scope of your imagination.',
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                          fontFamily: 'Inter',
+                          fontFamily: 'Plus Jakarta Sans',
                           fontSize: 12.0,
                           fontWeight: FontWeight.normal,
                         ),
@@ -220,7 +220,7 @@ class _AboutUSWidgetState extends State<AboutUSWidget> {
                   child: Text(
                     'Thank you for being part of our mission to redefine the landscape of creative expression. We invite you to embark on this fascinating journey and help color the world with your imagination.',
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                          fontFamily: 'Inter',
+                          fontFamily: 'Plus Jakarta Sans',
                           fontSize: 12.0,
                           fontWeight: FontWeight.normal,
                         ),
@@ -234,7 +234,7 @@ class _AboutUSWidgetState extends State<AboutUSWidget> {
                   child: Text(
                     'Contact information',
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                          fontFamily: 'Inter',
+                          fontFamily: 'Plus Jakarta Sans',
                           fontWeight: FontWeight.w600,
                         ),
                   ),
@@ -247,7 +247,7 @@ class _AboutUSWidgetState extends State<AboutUSWidget> {
                   child: Text(
                     'Brooker Business Development Co.,Ltd',
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                          fontFamily: 'Inter',
+                          fontFamily: 'Plus Jakarta Sans',
                           fontSize: 12.0,
                           fontWeight: FontWeight.w600,
                         ),
@@ -263,7 +263,7 @@ class _AboutUSWidgetState extends State<AboutUSWidget> {
                       TextSpan(
                         text: 'Address ',
                         style: FlutterFlowTheme.of(context).bodyMedium.override(
-                              fontFamily: 'Inter',
+                              fontFamily: 'Plus Jakarta Sans',
                               color: Colors.black,
                               fontSize: 12.0,
                               fontWeight: FontWeight.w600,
@@ -294,7 +294,7 @@ class _AboutUSWidgetState extends State<AboutUSWidget> {
                           text: 'Tel',
                           style:
                               FlutterFlowTheme.of(context).bodyMedium.override(
-                                    fontFamily: 'Inter',
+                                    fontFamily: 'Plus Jakarta Sans',
                                     color: Colors.black,
                                     fontSize: 12.0,
                                     fontWeight: FontWeight.w600,
@@ -325,7 +325,7 @@ class _AboutUSWidgetState extends State<AboutUSWidget> {
                           text: 'Email',
                           style:
                               FlutterFlowTheme.of(context).bodyMedium.override(
-                                    fontFamily: 'Inter',
+                                    fontFamily: 'Plus Jakarta Sans',
                                     color: Colors.black,
                                     fontSize: 12.0,
                                     fontWeight: FontWeight.w600,

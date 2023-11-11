@@ -90,7 +90,7 @@ class _BuyCreditWidgetState extends State<BuyCreditWidget> {
                               style: FlutterFlowTheme.of(context)
                                   .bodyLarge
                                   .override(
-                                    fontFamily: 'Inter',
+                                    fontFamily: 'Plus Jakarta Sans',
                                     fontSize: 22.0,
                                     fontWeight: FontWeight.bold,
                                   ),
@@ -185,7 +185,7 @@ class _BuyCreditWidgetState extends State<BuyCreditWidget> {
                                       style: FlutterFlowTheme.of(context)
                                           .bodyMedium
                                           .override(
-                                            fontFamily: 'Inter',
+                                            fontFamily: 'Plus Jakarta Sans',
                                             color: const Color(0xFF406AFF),
                                             fontSize: 18.0,
                                             fontWeight: FontWeight.w600,
@@ -206,7 +206,7 @@ class _BuyCreditWidgetState extends State<BuyCreditWidget> {
                                           style: FlutterFlowTheme.of(context)
                                               .bodyMedium
                                               .override(
-                                                fontFamily: 'Inter',
+                                                fontFamily: 'Plus Jakarta Sans',
                                                 color: Colors.black,
                                                 fontSize: 19.0,
                                                 fontWeight: FontWeight.bold,
@@ -235,7 +235,7 @@ class _BuyCreditWidgetState extends State<BuyCreditWidget> {
                                       style: FlutterFlowTheme.of(context)
                                           .bodyMedium
                                           .override(
-                                            fontFamily: 'Inter',
+                                            fontFamily: 'Plus Jakarta Sans',
                                             color: const Color(0xD3000000),
                                             fontSize: 14.0,
                                             fontWeight: FontWeight.normal,
@@ -282,7 +282,7 @@ class _BuyCreditWidgetState extends State<BuyCreditWidget> {
                                         style: FlutterFlowTheme.of(context)
                                             .bodyMedium
                                             .override(
-                                              fontFamily: 'Inter',
+                                              fontFamily: 'Plus Jakarta Sans',
                                               color: const Color(0xFF406AFF),
                                               fontSize: 18.0,
                                               fontWeight: FontWeight.w600,
@@ -303,7 +303,8 @@ class _BuyCreditWidgetState extends State<BuyCreditWidget> {
                                             style: FlutterFlowTheme.of(context)
                                                 .bodyMedium
                                                 .override(
-                                                  fontFamily: 'Inter',
+                                                  fontFamily:
+                                                      'Plus Jakarta Sans',
                                                   color: Colors.black,
                                                   fontSize: 19.0,
                                                   fontWeight: FontWeight.bold,
@@ -333,7 +334,7 @@ class _BuyCreditWidgetState extends State<BuyCreditWidget> {
                                         style: FlutterFlowTheme.of(context)
                                             .bodyMedium
                                             .override(
-                                              fontFamily: 'Inter',
+                                              fontFamily: 'Plus Jakarta Sans',
                                               color: const Color(0xD3000000),
                                               fontSize: 14.0,
                                               fontWeight: FontWeight.normal,
@@ -354,7 +355,8 @@ class _BuyCreditWidgetState extends State<BuyCreditWidget> {
                                             style: FlutterFlowTheme.of(context)
                                                 .bodyMedium
                                                 .override(
-                                                  fontFamily: 'Inter',
+                                                  fontFamily:
+                                                      'Plus Jakarta Sans',
                                                   color: Colors.black,
                                                   fontSize: 8.0,
                                                   fontWeight: FontWeight.normal,
@@ -416,7 +418,7 @@ class _BuyCreditWidgetState extends State<BuyCreditWidget> {
                                         style: FlutterFlowTheme.of(context)
                                             .bodyMedium
                                             .override(
-                                              fontFamily: 'Inter',
+                                              fontFamily: 'Plus Jakarta Sans',
                                               color: const Color(0xFF406AFF),
                                               fontSize: 18.0,
                                               fontWeight: FontWeight.w600,
@@ -437,7 +439,8 @@ class _BuyCreditWidgetState extends State<BuyCreditWidget> {
                                             style: FlutterFlowTheme.of(context)
                                                 .bodyMedium
                                                 .override(
-                                                  fontFamily: 'Inter',
+                                                  fontFamily:
+                                                      'Plus Jakarta Sans',
                                                   color: Colors.black,
                                                   fontSize: 19.0,
                                                   fontWeight: FontWeight.bold,
@@ -467,7 +470,7 @@ class _BuyCreditWidgetState extends State<BuyCreditWidget> {
                                         style: FlutterFlowTheme.of(context)
                                             .bodyMedium
                                             .override(
-                                              fontFamily: 'Inter',
+                                              fontFamily: 'Plus Jakarta Sans',
                                               color: const Color(0xD3000000),
                                               fontSize: 14.0,
                                               fontWeight: FontWeight.normal,
@@ -488,7 +491,8 @@ class _BuyCreditWidgetState extends State<BuyCreditWidget> {
                                             style: FlutterFlowTheme.of(context)
                                                 .bodyMedium
                                                 .override(
-                                                  fontFamily: 'Inter',
+                                                  fontFamily:
+                                                      'Plus Jakarta Sans',
                                                   color: Colors.black,
                                                   fontSize: 8.0,
                                                   fontWeight: FontWeight.normal,
@@ -535,7 +539,7 @@ class _BuyCreditWidgetState extends State<BuyCreditWidget> {
                             textStyle: FlutterFlowTheme.of(context)
                                 .titleSmall
                                 .override(
-                                  fontFamily: 'Inter',
+                                  fontFamily: 'Plus Jakarta Sans',
                                   color: Colors.white,
                                 ),
                             borderSide: const BorderSide(
